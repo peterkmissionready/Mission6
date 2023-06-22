@@ -5,4 +5,4 @@ My presentation slides is the "Mission6.pptx" file and my resume is the "Peter K
 </br>
 </br>
 <img src="screenshot.jpg"></img><br>
-This is the screenshot for my "Mission6.pptx" presentation file which I used to answer Task 6 of this Mission.
+This is the screenshot for my "Mission6.pptx" presentation file which I used to answer Task 6 of this Mission, Mission 6.
